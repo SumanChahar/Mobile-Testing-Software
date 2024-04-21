@@ -13,11 +13,14 @@ This is a java based software to view/book/return phones
 # Main class of project:
 com.mobile.MobileSoftwareMain.java
 
+# Jar Details :
+created executable jar (mobile_testing_jar)  
+executable jar path :  out/artifacts/mobile_testing_jar
 
+# command to run this executable jar:
+java -jar <jar path>/mobile-testing.jar
 
-
-
-java -jar mobile-testing.jar
+# Result after executing above jar :
 
 === MOBILE SOFTWARE TESTING ===
 1. View available phones
