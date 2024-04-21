@@ -28,8 +28,8 @@ java -jar path_of_jar/mobile-testing.jar
 3. Book a phone
 4. Return a phone
 5. Exit
-===============================
-Please enter a choice (1 - 5) :
+<br>===============================
+<br>Please enter a choice (1 - 5) :
 1
 === Available Mobiles ===
 -*-*-*-
