@@ -1,5 +1,18 @@
-# mobile-testing-svc
-This is a java service to book/return a mobile
+# mobile-testing-software
+This is a java based software to view/book/return phones
+
+# Pre-requisite to run this software:
+1. JDK 21.0.3
+2. Gradle 7.4
+  
+# Tools Used
+1. Intellij
+2. Github
+
+
+# Main class of project:
+com.mobile.MobileSoftwareMain.java
+
 
 
 
