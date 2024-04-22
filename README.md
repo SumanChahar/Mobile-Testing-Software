@@ -3,7 +3,7 @@ This is a java based software to view/book/return phones
 
 # Pre-requisite to run this software:
 1. JDK 21.0.3
-2. Gradle 7.4
+2. Gradle 8.5
   
 # Tools Used
 1. Intellij
